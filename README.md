@@ -1,2 +1,1 @@
-# Coursera-Python-Data-Structures
-Solved Exercises of the course Python Data Structures in Coursera
+These are solutions to the exercises assigned in Python Data Structures(Coursera).  Disclaimer: Please know that all Coursera assignments are to be completed by the student using his/her own wit.  Refer this repository only if you're well and truly stuck, with no possible solution on the horizon.
